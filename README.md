@@ -1,4 +1,4 @@
-# News Image Classifier 📰🖼️
+# Vision Train 📰🖼️
 
 An end-to-end machine learning pipeline that scrapes images from news websites, organizes them using AI, and trains a CNN for automatic classification.
 
