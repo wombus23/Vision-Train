@@ -176,7 +176,7 @@ MIT License - See [LICENSE](LICENSE) file
 
 ## 📮 Contact
 
-**Repository:** [github.com/wombus23/news-image-classifier](https://github.com/wombus23/news-image-classifier)
+**Repository:** [github.com/wombus23/Vision-Train](https://github.com/wombus23/Vision-Train)
 
 ---
 
