@@ -21,7 +21,7 @@ An end-to-end machine learning pipeline that scrapes images from news websites, 
 
 ```bash
 # Clone repository
-git clone https://github.com/wombus23/news-image-classifier.git
+git clone https://github.com/wombus23/Vision-Train.git
 cd news-image-classifier
 
 # Create virtual environment
